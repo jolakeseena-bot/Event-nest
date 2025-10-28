@@ -157,3 +157,5 @@ License: (choose a license and add here)
 ---
 
 Happy hacking — explore `eventnest-frontend/src/pages/Dashboard.jsx` and `eventnest-frontend/src/pages/UserProfile.jsx` for the user activity logic, and `eventnest-backend/controllers/eventController.js` for the server-side behaviour.
+
+
